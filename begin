@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 // do the thing you do
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 } catch (IOException e) {
