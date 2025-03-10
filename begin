@@ -1,3 +1,4 @@
+while (rs.next())
 ResultSet rs = ps.executeQuery();
 BufferedWriter out = null;
 test.init();
