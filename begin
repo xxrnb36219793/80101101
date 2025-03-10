@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 BufferedWriter out = null;
 test.init();
 public class OracleJdbcTest
