@@ -1,3 +1,4 @@
+Properties props = new Properties();
 test.fetch();
 while (rs.next())
 ResultSet rs = ps.executeQuery();
