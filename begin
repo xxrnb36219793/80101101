@@ -1,3 +1,4 @@
+// error processing code
 Properties props = new Properties();
 test.fetch();
 while (rs.next())
