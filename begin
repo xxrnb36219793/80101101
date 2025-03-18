@@ -1,3 +1,4 @@
+out.write(”aString”);
 // error processing code
 Properties props = new Properties();
 test.fetch();
