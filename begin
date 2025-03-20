@@ -1,3 +1,4 @@
+ps.close();
 BufferedWriter out = null;
 if (out != null) {
 out.write(”aString”);
