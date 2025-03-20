@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 if (out != null) {
 out.write(”aString”);
 // error processing code
