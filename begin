@@ -1,3 +1,4 @@
+out.close();
 Class.forName(driverClass);
 // error processing code
 ResultSet rs = ps.executeQuery();
