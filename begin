@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 out.close();
 Class.forName(driverClass);
 // error processing code
